@@ -16,11 +16,9 @@ The dashboard helps analyze:
 - Loan Term Analysis
 ---
 ## Dashboard Screenshots
-### Summary Dashboard
-![Summary Dashboard](Images/Dashboard_Summary.png)
-### Overview Dashboard
-![Overview Dashboard](Images/Dashboard_Overview.png)
----
+![Summary Dashboard](summary-dashboard.png)
+
+![Overview Dashboard](overview-dashboard.png)
 ## Key KPIs
 - Total Loan Applications: 38,576
 - Total Funded Amount: 435.8M
